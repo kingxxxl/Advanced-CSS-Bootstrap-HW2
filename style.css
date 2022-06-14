@@ -1,0 +1,28 @@
+
+.maintxt {
+    background-image: url(X3cSbLoPBWMvaMQbQUCrWi-1280-80.jpg.webp);
+    background-size: cover;
+}
+
+#store-name {
+    color: whitesmoke;
+    font-size: 2em;
+    font-weight: 900;
+    text-shadow: 0px 0 7px orange;
+}
+
+/*@media only screen and (max-width: 600px) {*/
+/*    .card {*/
+/*        position: relative;*/
+/*        left: 22%;*/
+/*    }*/
+/*}*/
+
+
+.breadcrumb {
+    padding: 4px 15px;
+    border-radius: 3px;
+
+    background: #E9ECEF;
+}
+
